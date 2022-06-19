@@ -13,10 +13,6 @@ Based on CRUD opeartion of Firebase
 
 #
 #
-#
-
-
-
 
 #Flutter
 #Firebase
