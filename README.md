@@ -6,6 +6,8 @@ Can update and delete as per requirement.
 
 Based on CRUD opeartion of Firebase
 
+State Management :  Provider
+
 -Create
 -Read
 -Update
